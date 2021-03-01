@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="update">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/refik/seleniumproje/constant/Constant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/refik/seleniumproje/test/PageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/executionStatus.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/failures.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gauge/lastRunCmd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/refikkarakilicproje.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/23044-java.exe.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/api.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/gauge.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/js/lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/html-report/specs/senaryolar.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/html-report/specs/senaryolar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/loginandsearch.cpt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/specs/senaryolar.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/selenium/base/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/refik/seleniumproje/base/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/selenium/base/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/refik/seleniumproje/base/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/selenium/constants/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/selenium/pagemodel/PageModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/refik/seleniumproje/pagemodel/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/test/selenium/test/PageModelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/example-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/example-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/selenium/base/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/selenium/base/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/selenium/base/BaseTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/test/selenium/base/BaseTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/selenium/constants/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/selenium/pagemodel/PageModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/test/selenium/test/PageModelTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_driver/chromedriver.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Specification" />
+        <option value="Concept" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZFnBPOWReGvkIrDVue7f1d7w67" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ryto1\Desktop\example\src\test\java\com\team\green\test" />
+      <recent name="C:\Users\ryto1\Desktop\example\src\test\java\com\team\green\page" />
+      <recent name="C:\Users\ryto1\Desktop\example\env" />
+      <recent name="C:\Users\ryto1\Desktop\example\specs" />
+      <recent name="C:\Users\ryto1\Desktop\example\web_driver" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web_driver" />
+      <recent name="C:\Users\refik\IdeaProjects\SelPro\web_driver" />
+      <recent name="C:\Users\ryto1\Desktop\example\web_driver" />
+      <recent name="C:\Users\ryto1\Desktop\example\specs" />
+      <recent name="C:\Users\ryto1\Desktop\example\src\test\java\com\testinium\test" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.testinium.test" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PageTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="refikkarakilicproje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.refik.seleniumproje.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.refik.seleniumproje.test" />
+      <option name="MAIN_CLASS_NAME" value="com.refik.seleniumproje.test.PageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTest.before" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="refikkarakilicproje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.refik.seleniumproje.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.refik.seleniumproje.test" />
+      <option name="MAIN_CLASS_NAME" value="com.refik.seleniumproje.test.PageTest" />
+      <option name="METHOD_NAME" value="before" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTest.runPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="refikkarakilicproje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.refik.seleniumproje.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.refik.seleniumproje.test" />
+      <option name="MAIN_CLASS_NAME" value="com.refik.seleniumproje.test.PageTest" />
+      <option name="METHOD_NAME" value="runPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTest.setUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="refikkarakilicproje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.refik.seleniumproje.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.refik.seleniumproje.test" />
+      <option name="MAIN_CLASS_NAME" value="com.refik.seleniumproje.test.PageTest" />
+      <option name="METHOD_NAME" value="setUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="refikkarakilicproje" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="refikkarakilicproje" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="senaryolar.spec" type="executeSpecs" factoryName="GaugeConfigurationFactory" temporary="true">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="$PROJECT_DIR$/specs/senaryolar.spec" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="example" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PageTest" />
+        <item itemvalue="JUnit.PageTest.runPage" />
+        <item itemvalue="JUnit.PageTest.setUp" />
+        <item itemvalue="JUnit.PageTest.before" />
+        <item itemvalue="Gauge Execution.senaryolar.spec" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df877adc-d651-4c2d-8eab-654fc41042d5" name="Default" comment="" />
+      <created>1584398585589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584398585589</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1614167027941</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614167027941</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+</project>

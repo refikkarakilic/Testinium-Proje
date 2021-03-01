@@ -1,0 +1,5 @@
+com/test/selenium/base/BasePage.class
+com/test/selenium/pagemodel/PageModel.class
+com/test/selenium/base/BaseTest.class
+com/test/selenium/test/PageModelTest.class
+com/test/selenium/constants/Constants.class
